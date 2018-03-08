@@ -1,2 +1,2 @@
-# python-tutorial
-The tutorials and codes samples for learning python as a starter
+# python-base
+This repository contains python tutorial codes and samples suitable for new learners, and also some scripts written and used in previous projects
